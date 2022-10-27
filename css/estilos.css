@@ -4,3 +4,15 @@ body {
     font-family: arial;
     background-color: palevioletred;
 }
+
+#container {
+    width: 70%;
+    text-align: center;
+    padding: 1em;
+    border: 1px solid black;
+    margin: auto;
+}
+
+#container h1 {
+    font-size: 30px;
+}
